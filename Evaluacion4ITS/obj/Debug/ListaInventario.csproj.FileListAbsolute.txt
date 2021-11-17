@@ -1,0 +1,9 @@
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.Form1.resources
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.Properties.Resources.resources
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\ListaInventario.csproj.GenerateResource.cache
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\ListaInventario.csproj.CoreCompileInputs.cache
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.exe
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.pdb
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.exe.config
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.exe
+C:\Users\joel_\Source\Repos\ListaInventario\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.pdb

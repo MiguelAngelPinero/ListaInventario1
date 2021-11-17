@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Lista_x0020_de_x0020_Productos>
+    <Id>1</Id>
+    <Nombre>ert</Nombre>
+    <Precio>234</Precio>
+    <Cantidad>4</Cantidad>
+  </Lista_x0020_de_x0020_Productos>
+  <Lista_x0020_de_x0020_Productos>
+    <Id>2</Id>
+    <Nombre>dfgfg</Nombre>
+    <Precio>234</Precio>
+    <Cantidad>4</Cantidad>
+  </Lista_x0020_de_x0020_Productos>
+  <Lista_x0020_de_x0020_Productos>
+    <Id>3</Id>
+    <Nombre>Bici</Nombre>
+    <Precio>25000</Precio>
+    <Cantidad>3</Cantidad>
+  </Lista_x0020_de_x0020_Productos>
+</DocumentElement>

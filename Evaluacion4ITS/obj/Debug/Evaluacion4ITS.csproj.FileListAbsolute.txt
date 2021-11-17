@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.exe.config
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.exe
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\bin\Debug\Evaluacion4ITS.pdb
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.Form1.resources
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.Properties.Resources.resources
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.csproj.GenerateResource.cache
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.exe
+C:\Users\Jose\source\repos\Evaluacion4ITS\Evaluacion4ITS\obj\Debug\Evaluacion4ITS.pdb
